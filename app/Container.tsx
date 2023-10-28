@@ -25,10 +25,10 @@ const Container = (props: Props) => {
                 <p className='text-base sm:text-xl md:text-base lg:text-xl xl:text-2xl lg:pt-6'>bringing New Blocks to live</p>
                 <div className='flex items-center mt-6 md:mt-14'>
                     <ul className='flex items-center space-x-2 sm:space-x-5 mr-6 my-4 '>
-                        <li><a href="" className='hover:opacity-100 opacity-75 transition ease-in duration-150'><AiOutlineTwitter size={24}/></a></li>
-                        <li><a href="" className='hover:opacity-100 opacity-75 transition ease-in duration-150'><GrInstagram size={24}/></a></li>
-                        <li><a href="" className='hover:opacity-100 opacity-75 transition ease-in duration-150'><AiFillLinkedin size={24}/></a></li>
-                        <li><a href="" className='hover:opacity-100 opacity-75 transition ease-in duration-150'><AiOutlineGithub size={24}/></a></li>
+                        <li><a href="https://twitter.com/binioosini" className='hover:opacity-100 opacity-75 transition ease-in duration-150'><AiOutlineTwitter size={24}/></a></li>
+                        <li><a href="https://www.instagram.com/binioosini" className='hover:opacity-100 opacity-75 transition ease-in duration-150'><GrInstagram size={24}/></a></li>
+                        <li><a href="https://www.linkedin.com/in/al-zbeer-khalf-293869294/" className='hover:opacity-100 opacity-75 transition ease-in duration-150'><AiFillLinkedin size={24}/></a></li>
+                        <li><a href="https://github.com/binioosini" className='hover:opacity-100 opacity-75 transition ease-in duration-150'><AiOutlineGithub size={24}/></a></li>
                     </ul>
                     <a href="mailto:binioosini@gmail.com" className='px-4 py-[5px] whitespace-nowrap transition ease-in duration-150 bg-neutral-700 hover:bg-neutral-600 rounded-2xl border-[0.5px] border-[#363636]'>Email me</a>
                 </div>
